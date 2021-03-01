@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JohnSyed/React_WeatherApp.git/static/css/main.3acf2c5f.chunk.css",
+    "main.js": "/JohnSyed/React_WeatherApp.git/static/js/main.26dc468a.chunk.js",
+    "main.js.map": "/JohnSyed/React_WeatherApp.git/static/js/main.26dc468a.chunk.js.map",
+    "runtime-main.js": "/JohnSyed/React_WeatherApp.git/static/js/runtime-main.ed2ad722.js",
+    "runtime-main.js.map": "/JohnSyed/React_WeatherApp.git/static/js/runtime-main.ed2ad722.js.map",
+    "static/js/2.464471e4.chunk.js": "/JohnSyed/React_WeatherApp.git/static/js/2.464471e4.chunk.js",
+    "static/js/2.464471e4.chunk.js.map": "/JohnSyed/React_WeatherApp.git/static/js/2.464471e4.chunk.js.map",
+    "static/js/3.e843c5e1.chunk.js": "/JohnSyed/React_WeatherApp.git/static/js/3.e843c5e1.chunk.js",
+    "static/js/3.e843c5e1.chunk.js.map": "/JohnSyed/React_WeatherApp.git/static/js/3.e843c5e1.chunk.js.map",
+    "index.html": "/JohnSyed/React_WeatherApp.git/index.html",
+    "static/css/main.3acf2c5f.chunk.css.map": "/JohnSyed/React_WeatherApp.git/static/css/main.3acf2c5f.chunk.css.map",
+    "static/js/2.464471e4.chunk.js.LICENSE.txt": "/JohnSyed/React_WeatherApp.git/static/js/2.464471e4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JohnSyed/React_WeatherApp.git/static/media/warm-bg.a7f83012.jpg",
+    "static/media/logo.6ce24c58.svg": "/JohnSyed/React_WeatherApp.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed2ad722.js",
+    "static/js/2.464471e4.chunk.js",
+    "static/css/main.3acf2c5f.chunk.css",
+    "static/js/main.26dc468a.chunk.js"
+  ]
+}
